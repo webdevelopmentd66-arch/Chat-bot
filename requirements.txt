@@ -1,0 +1,6 @@
+streamlit
+pymupdf
+sentence-transformers
+pinecone-client
+groq
+python-dotenvl
