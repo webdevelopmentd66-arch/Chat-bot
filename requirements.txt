@@ -3,4 +3,4 @@ pymupdf
 sentence-transformers
 pinecone-client
 groq
-python-dotenvl
+python-dotenv
