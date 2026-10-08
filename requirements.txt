@@ -1,6 +1,6 @@
 streamlit
 pymupdf
 sentence-transformers
-pinecone-client
+pinecone
 groq
 python-dotenv
